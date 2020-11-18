@@ -8,7 +8,7 @@ formData = {
 
 
 $.ajax({
-url : "andrewvogt17@gmail.com",
+url : "mail.php",
 type: "POST",
 data : formData,
 success: function(data, textStatus, jqXHR)
